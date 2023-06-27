@@ -8,8 +8,6 @@
 
 - 👯 I’m looking to collaborate on **Web D/App D projects.**
 
-- 🤝 I’m looking for help with **Development.**
-
 - 💬 Ask me about **DSA related problems.**
 
 - 📫 How to reach me **sougataofficial362000@gmail.com**
