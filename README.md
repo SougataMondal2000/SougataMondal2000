@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sougata</h1>
 <h3 align="center">Coding Ninjas Gold in DSA and Learning Development Alongside!</h3>
-<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif">
+<img align="right" alt="Coding" width="320" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l1st3rrr&label=Profile%20views&color=0e75b6&style=flat" alt="l1st3rrr" /> </p>
 
