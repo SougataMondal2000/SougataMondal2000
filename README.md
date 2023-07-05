@@ -1,31 +1,46 @@
-<h1 align="center">Hi 👋, I'm Sougata</h1>
-<h3 align="center">Coding Ninjas Gold in DSA and Learning Development Alongside!</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+# Hi there, I'm [Your Name]! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=l1st3rrr&label=Profile%20views&color=0e75b6&style=flat" alt="l1st3rrr" /> </p>
+Welcome to my GitHub profile! I'm a passionate developer and open-source enthusiast. Here you'll find a collection of my projects and contributions. Feel free to explore and connect with me.
 
-- 🌱 I’m currently learning **DSA and Backend Development.**
+## Current Streak 📅
 
-- 👯 I’m looking to collaborate on **Web D/App D projects.**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
 
-- 💬 Ask me about **DSA related problems.**
+## Most Used Language 💻
 
-- 📫 How to reach me **sougataofficial362000@gmail.com**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sougata-mondal-b9980020a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sougata-mondal-b9980020a/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22140502/sougata-mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22140502/sougata-mondal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sougataofficial1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sougataofficial1?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sougatamondal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sougatamondal/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sougatanorrb4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sougatanorrb4" height="30" width="40" /></a>
-</p>
+## Skills and Technologies 🚀
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- Programming languages: [List your programming languages here]
+- Frameworks and libraries: [List frameworks and libraries]
+- Tools and platforms: [List tools and platforms]
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l1st3rrr&show_icons=true&locale=en&layout=compact" alt="l1st3rrr" /></p>
+## Projects and Contributions 🌟
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l1st3rrr&show_icons=true&locale=en" alt="l1st3rrr" /></p>
+- [Project 1](link-to-project) - A brief description of the project and its key features.
+- [Project 2](link-to-project) - A brief description of the project and its key features.
+- ...
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l1st3rrr&" alt="l1st3rrr" /></p>
+## GitHub Activity Graph 📊
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=github)
+
+## Open Source Contributions ❤️
+
+I actively contribute to open-source projects. Some of my notable contributions include:
+
+- [Project 1](link-to-contribution) - Description of the contribution and its impact.
+- [Project 2](link-to-contribution) - Description of the contribution and its impact.
+- ...
+
+## Connect with Me 🌐
+
+You can find me on various platforms. Let's connect and collaborate!
+
+- Personal website: [your-website.com](https://your-website.com)
+- LinkedIn: [Your Name](https://www.linkedin.com/in/your-profile)
+- Twitter: [@your-handle](https://twitter.com/your-handle)
+
+Feel free to reach out to me via email at your-email@example.com.
+
