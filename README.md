@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sougatamondal2000&label=Profile%20views&color=0e75b6&style=flat" alt="sougatamondal2000" /> </p>
 
-- 🌱 I’m currently learning **DSA and Backend Development.**
+- 🌱 I’m currently learning **DSA and Full Stack Development.**
 
 - 📫 How to reach me **sougataofficial362000@gmail.com**
 
